@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Anurag Shrivastav, a first-year B.Tech CSE student with expertise in Android development using Kotlin, PHP, and Firebase. As a tech member of my college’s E-cell club, I actively build advanced Android apps.
+I am Anurag Shrivastav, a first-year B.Tech CSE student with expertise in Android development using Kotlin, SpringBoot, and Firebase. As a tech member of my college’s E-cell club, I actively build advanced Android apps.
 
 
 ## 🌐 Socials:
