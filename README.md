@@ -1,5 +1,9 @@
 # 💫 About Me:
-About Me :<br><br>🔭 I’m currently working on mobile apps and improving my skills in full-stack Android development. I already have apps published on Google Play Store:<br><br>📱 Uddaka (Java, PHP, Laravel, SQL)<br><br>🚗 Uddaka Driver (Java, PHP, Laravel, SQL)<br><br>🔊 Increase High Volume (Kotlin + XML)<br><br>📝 Nova Prompt (Kotlin + XML, MERN Stack)<br><br>🤝 I’m looking to collaborate on Android apps, full-stack projects, and innovative mobile-first solutions.<br><br>🫱 I’m looking for  scaling apps with backend optimizations.<br><br>🌱 I’m currently learning GoLang.<br><br>💬 Ask me about Android app development, Firebase Realtime Database, push notifications, AccessibilityService, and Play Store publishing.<br><br>⚡ Fun fact: I love experimenting with different tech stacks for different apps—from Java + PHP/Laravel to Kotlin + MERN 🚀.
+About Me :<br><br>🔭 I’m currently working on mobile apps and improving my skills in full-stack Android development. I already have apps published on Google Play Store:<br><br>📱 Uddaka (Java, PHP, Laravel, SQL)
+<br><br>🚗 Uddaka Driver (Java, PHP, Laravel, SQL)
+<br><br>🔊 Increase High Volume (Kotlin + XML)
+<br><br>📝 Nova Prompt (Kotlin + XML, MERN Stack)
+<br><br>🤝 I’m looking to collaborate on Android apps, full-stack projects, and innovative mobile-first solutions.<br><br>🫱 I’m looking for  scaling apps with backend optimizations.<br><br>🌱 I’m currently learning GoLang.<br><br>💬 Ask me about Android app development, Firebase Realtime Database, push notifications, AccessibilityService, and Play Store publishing.<br><br>⚡ Fun fact: I love experimenting with different tech stacks for different apps—from Java + PHP/Laravel to Kotlin + MERN 🚀.
 
 
 ## 🌐 Socials:
